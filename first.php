@@ -2,7 +2,7 @@
  
 	if(isset($_GET['day']) && isset($_GET['date']) && isset($_GET['year']))
 	{
-		echo "values entered";
+		echo "values entered yyyyyyyyyyyyyy";
 		$day=$_GET['day'];
 	}
 	if(!empty($day))
